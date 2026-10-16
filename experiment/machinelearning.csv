@@ -1,0 +1,6 @@
+MCQ,Choices,Correct
+"In the sentence 'The electrician repaired the circuit because it was faulty,' what mechanism does a Transformer use to understand what 'it' refers to?",a: Tokenization | b: Self-attention | c: Positional encoding | d: Feed-forward networking,b
+"During which stage of a Transformer is the input text split into smaller units like whole words, word parts, or punctuation marks?",a: Tokenization | b: Self-attention | c: Output generation | d: Embedding,a
+"In the library analogy used for Query, Key, and Value (Q, K, V), what does the Query represent?",a: The useful content of the selected book | b: A book's description | c: Your search question | d: The library building,c
+"Which type of Transformer architecture is typically used for GPT-style models, chatbots, and code generation?",a: Encoder-only | b: Decoder-only | c: Encoder-decoder | d: Retrieval-only,b
+"In an AI system designed to help electrical trainees, what is the role of the Transformer-based model?",a: Provide the user interface and buttons | b: Retrieve notes from the database | c: Generate the response by processing tokens through attention layers | d: Format the final output for the mobile application,c
