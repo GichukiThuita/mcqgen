@@ -1,5 +1,9 @@
-env/
 .env
+env/
+venv/
 __pycache__/
-ls logs
-cat logs/*.log
+.ipynb_checkpoints/
+*.egg-info/
+logs/
+*.log
+.DS_Store
